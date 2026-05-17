@@ -276,18 +276,3 @@ Professional dashboard generation:
 
 ---
 
-## 📞 Support & Contact
-
-For questions or issues, contact the Data Analytics Team.
-
----
-
-## 📄 License
-
-This project is confidential and proprietary to TCS.
-
----
-
-**Last Updated**: May 2026
-**Data Period**: January - December 2025
-**Analysis Date**: May 17, 2026
